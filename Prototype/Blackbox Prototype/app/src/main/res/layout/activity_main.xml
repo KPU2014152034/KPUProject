@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="kr.ac.kpu.cameraapitest01.MainActivity">
+
+    <SurfaceView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/cameraView" />
+
+    <Button
+        android:text="CAPTURE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnCapture"
+        android:layout_gravity="bottom|right"
+        android:layout_marginBottom="50dp" />
+
+    5<Button
+        android:text="RECORD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnRecord"
+        android:layout_gravity="bottom|center_horizontal"
+    android:layout_marginBottom="50dp" />
+
+    <Button
+        android:text="SETTING"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnSetting"
+        android:layout_marginBottom="50dp"
+        android:layout_gravity="bottom" />
+</FrameLayout>

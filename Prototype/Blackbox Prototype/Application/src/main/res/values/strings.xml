@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="description_info">Info</string>
+    <string name="permission_request">이 어플리케이션은 카메라, 오디오, 파일 시스템의 접근을 필요로 합니다.</string>
+    <string name="camera_error">이 장치는 해당 어플리케이션을 이용할 수 없습니다.</string>
+</resources>

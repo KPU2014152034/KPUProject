@@ -1,11 +1,23 @@
 [
     {
+        "merged": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\ItsMo\\.android\\build-cache\\27a1ef0e7262b59ba20108e546f0aa547d3d20b7\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
         "merged": "E:\\Prog\\FinalProg\\android-Camera2Video-master_0131\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
         "source": "C:\\Users\\JSH\\.android\\build-cache\\ac7189fb8a48ff4a01884d948ba97a55998ec606\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
         "merged": "E:\\Prog\\FinalProg\\android-Camera2Video-master_0131\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
         "source": "C:\\Users\\JSH\\.android\\build-cache\\ac7189fb8a48ff4a01884d948ba97a55998ec606\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\ItsMo\\.android\\build-cache\\27a1ef0e7262b59ba20108e546f0aa547d3d20b7\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\ItsMo\\.android\\build-cache\\27a1ef0e7262b59ba20108e546f0aa547d3d20b7\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
         "merged": "E:\\Prog\\FinalProg\\android-Camera2Video-master_0131\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
@@ -18,6 +30,18 @@
     {
         "merged": "E:\\Prog\\FinalProg\\android-Camera2Video-master_0131\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
         "source": "C:\\Users\\JSH\\.android\\build-cache\\ac7189fb8a48ff4a01884d948ba97a55998ec606\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\ItsMo\\.android\\build-cache\\27a1ef0e7262b59ba20108e546f0aa547d3d20b7\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\ItsMo\\.android\\build-cache\\27a1ef0e7262b59ba20108e546f0aa547d3d20b7\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\ItsMo\\.android\\build-cache\\27a1ef0e7262b59ba20108e546f0aa547d3d20b7\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
         "merged": "E:\\Prog\\FinalProg\\android-Camera2Video-master_0131\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
@@ -34,6 +58,22 @@
     {
         "merged": "E:\\Prog\\FinalProg\\android-Camera2Video-master_0131\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
         "source": "C:\\Users\\JSH\\.android\\build-cache\\ac7189fb8a48ff4a01884d948ba97a55998ec606\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\ItsMo\\.android\\build-cache\\27a1ef0e7262b59ba20108e546f0aa547d3d20b7\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\ItsMo\\.android\\build-cache\\27a1ef0e7262b59ba20108e546f0aa547d3d20b7\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\ItsMo\\.android\\build-cache\\27a1ef0e7262b59ba20108e546f0aa547d3d20b7\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\ItsMo\\.android\\build-cache\\27a1ef0e7262b59ba20108e546f0aa547d3d20b7\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
         "merged": "E:\\Prog\\FinalProg\\android-Camera2Video-master_0131\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",

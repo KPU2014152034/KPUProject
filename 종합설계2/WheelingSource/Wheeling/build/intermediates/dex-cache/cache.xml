@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e6bc994213ee440917eecf9d545d87e682849d88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0122d86d3f24abf96bac62af0b7d9a368b069692">
+        <dex dex="F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1541a35cfa013012cdb3f36b042c0938dede5d4c\classes.dex" />
+    </item>
+
+</items>

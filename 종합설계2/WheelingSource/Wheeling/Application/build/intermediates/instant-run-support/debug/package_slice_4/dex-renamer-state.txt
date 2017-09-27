@@ -1,0 +1,4 @@
+#Sun Aug 20 22:34:16 KST 2017
+base.0=F\:\\Project\\android-Camera2Video-master_0623\\android-Camera2Video-master_0619\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=F\:\\Project\\android-Camera2Video-master_0623\\android-Camera2Video-master_0619\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

@@ -1978,6 +1978,7 @@ containing a value of this type.
         public static final int ifRoom=0x7f0a001f;
         public static final int image=0x7f0a0029;
         public static final int info=0x7f0a0066;
+        public static final int interval=0x7f0a0057;
         public static final int line1=0x7f0a006b;
         public static final int line3=0x7f0a006d;
         public static final int listMode=0x7f0a0009;
@@ -2012,7 +2013,6 @@ containing a value of this type.
         public static final int search_src_text=0x7f0a004e;
         public static final int search_voice_btn=0x7f0a0052;
         public static final int select_dialog_listview=0x7f0a0053;
-        public static final int setting=0x7f0a0057;
         public static final int shortcut=0x7f0a003d;
         public static final int showCustom=0x7f0a000f;
         public static final int showHome=0x7f0a0010;
@@ -2143,6 +2143,8 @@ containing a value of this type.
         public static final int AlertDialog_AppCompat_Light=0x7f07009c;
         public static final int Animation_AppCompat_Dialog=0x7f07009d;
         public static final int Animation_AppCompat_DropDownUp=0x7f07009e;
+        /**  FROM http://stackoverflow.com/questions/29069070/completely-transparent-status-bar-and-navigation-bar-on-lollipop 
+         */
         public static final int AppTheme=0x7f07009f;
         public static final int Base_AlertDialog_AppCompat=0x7f0700a0;
         public static final int Base_AlertDialog_AppCompat_Light=0x7f0700a1;

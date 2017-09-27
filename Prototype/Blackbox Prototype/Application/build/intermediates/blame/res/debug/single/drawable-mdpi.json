@@ -1,10 +1,18 @@
 [
     {
+        "merged": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
         "merged": "E:\\Prog\\FinalProg\\android-Camera2Video-master_0131\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
         "source": "E:\\Prog\\FinalProg\\android-Camera2Video-master_0131\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     },
     {
         "merged": "E:\\Prog\\FinalProg\\android-Camera2Video-master_0131\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_info.png",
         "source": "E:\\Prog\\FinalProg\\android-Camera2Video-master_0131\\Application\\src\\main\\res\\drawable-mdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_info.png",
+        "source": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\src\\main\\res\\drawable-mdpi\\ic_action_info.png"
     }
 ]

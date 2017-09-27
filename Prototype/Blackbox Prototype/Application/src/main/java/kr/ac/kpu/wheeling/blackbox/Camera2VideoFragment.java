@@ -318,7 +318,7 @@ public class Camera2VideoFragment extends Fragment
         mButtonVideo = (Button) view.findViewById(kr.ac.kpu.wheeling.R.id.video);
         mButtonVideo.setOnClickListener(this);
 
-        mButtonSetting = (Button) view.findViewById(kr.ac.kpu.wheeling.R.id.setting);
+        mButtonSetting = (Button) view.findViewById(kr.ac.kpu.wheeling.R.id.interval);
         mButtonSetting.setOnClickListener(this);
         //view.findViewById(R.id.info).setOnClickListener(this);
         chronometer = (Chronometer) view.findViewById(kr.ac.kpu.wheeling.R.id.chronometer);
@@ -371,7 +371,7 @@ public class Camera2VideoFragment extends Fragment
                 }
                 break;
             }
-            case kr.ac.kpu.wheeling.R.id.setting: {
+            case kr.ac.kpu.wheeling.R.id.interval: {
                 if (mIsRecordingVideo) {
                     stopRecordingVideo();
                 } else {

@@ -4,7 +4,15 @@
         "source": "E:\\Prog\\FinalProg\\android-Camera2Video-master_0131\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_info.png",
+        "source": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_action_info.png"
+    },
+    {
         "merged": "E:\\Prog\\FinalProg\\android-Camera2Video-master_0131\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_info.png",
         "source": "E:\\Prog\\FinalProg\\android-Camera2Video-master_0131\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     }
 ]

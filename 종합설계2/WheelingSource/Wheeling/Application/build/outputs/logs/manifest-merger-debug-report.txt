@@ -1,0 +1,532 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:16:1-107:12
+	package
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:17:5-33
+	android:versionName
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:19:5-30
+		INJECTED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml
+		INJECTED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:18:5-28
+		INJECTED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml
+		INJECTED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:16:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.INTERNET
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\limhj_000\.android\build-cache\c40948d64ccc6952901bf03033d00a531c51e3b5\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\faaa6a970842c98139d763a4edfd5087c50e32f6\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\limhj_000\.android\build-cache\09f6a03a490f5fbf46007289192b74a7f2427776\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\limhj_000\.android\build-cache\79c4ac5ae741075f20ebc9e5dade545655c8cda2\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\limhj_000\.android\build-cache\607d2b77deeee05316ce4b817bc81b0b52449bd4\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\e1577c10d02cce69722da9bde839147d695c42f1\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\limhj_000\.android\build-cache\d050b8a1cd28a75ec5b33d231744f39a7879c453\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\fb8c91f1523996d3e3ec33f50c5a035a6cccb13b\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\limhj_000\.android\build-cache\877a8e4c494bc992033bae049d0d7f3307af2963\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\limhj_000\.android\build-cache\953430697dbbe46bbd0bc80fc80bcc960b5502ac\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\limhj_000\.android\build-cache\d6cf90586a144a93fa3b17fb83723b3b14e93fb7\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:23:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\limhj_000\.android\build-cache\c40948d64ccc6952901bf03033d00a531c51e3b5\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\faaa6a970842c98139d763a4edfd5087c50e32f6\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] C:\Users\limhj_000\.android\build-cache\b03cbf71060e70051e0f80d6a6c643450240185a\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\limhj_000\.android\build-cache\d050b8a1cd28a75ec5b33d231744f39a7879c453\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\fb8c91f1523996d3e3ec33f50c5a035a6cccb13b\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\limhj_000\.android\build-cache\877a8e4c494bc992033bae049d0d7f3307af2963\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\limhj_000\.android\build-cache\953430697dbbe46bbd0bc80fc80bcc960b5502ac\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\limhj_000\.android\build-cache\d6cf90586a144a93fa3b17fb83723b3b14e93fb7\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:26:5-75
+	android:name
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:26:22-72
+uses-permission#android.permission.CAMERA
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:27:5-65
+	android:name
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:27:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:28:5-71
+	android:name
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:28:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:29:22-78
+protected-broadcast
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:31:5-79
+	android:name
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:31:26-76
+application
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:33:5-105:19
+MERGED from [com.android.support:support-v13:25.0.1] C:\Users\limhj_000\.android\build-cache\488652d2ea19fa86efa071bbc018d4d55d89dae9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\limhj_000\.android\build-cache\aff624a0d0972b006a2dcd53b8a0b09778f9435e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:10.2.1] C:\Users\limhj_000\.android\build-cache\727ac1d2decbf84b5e4e9b2629eb9c82b3d0c179\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\limhj_000\.android\build-cache\c40948d64ccc6952901bf03033d00a531c51e3b5\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\faaa6a970842c98139d763a4edfd5087c50e32f6\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\limhj_000\.android\build-cache\09f6a03a490f5fbf46007289192b74a7f2427776\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\limhj_000\.android\build-cache\39f2e426cc3a09c16eaabca0cf509bfcf303fc9e\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\limhj_000\.android\build-cache\ddbf25a545bf5da651b4f1d2a985405b930839cb\output\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] C:\Users\limhj_000\.android\build-cache\fb1edace5e36ba0c69bb10eeebb7caada9123234\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\limhj_000\.android\build-cache\cc1bf0163ec0ff6c151a36533b68c92c5fc88285\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\limhj_000\.android\build-cache\c38d7395c3c990d68030ac5aab78bbe98f3d9603\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\limhj_000\.android\build-cache\d36181689524d06b29de99de5afd7fc102d1ec6f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\limhj_000\.android\build-cache\5bc81d006945a53543fb44f4d5e9c67aea1216fd\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\limhj_000\.android\build-cache\40b7b0182e3832240cc590f2564f83e845b58fd1\output\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] C:\Users\limhj_000\.android\build-cache\0dfe06d9bbdc987ca750ac0572af399d992d2dfc\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.2.1] C:\Users\limhj_000\.android\build-cache\900df4d3b9722c93ba4d5ef12aeb6c98f98edb03\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] C:\Users\limhj_000\.android\build-cache\0b52a2b571595a932b5a29dd3c5f37e7340cddf8\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\limhj_000\.android\build-cache\79c4ac5ae741075f20ebc9e5dade545655c8cda2\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.2.1] C:\Users\limhj_000\.android\build-cache\2c7f15a527cfbc85df3a5b9100dee663531e759a\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\limhj_000\.android\build-cache\77416da10a99561a9f38236c74560fb78676a6dc\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] C:\Users\limhj_000\.android\build-cache\40b631e33ad130aba3da05c249c5062bb02ca19e\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.1] C:\Users\limhj_000\.android\build-cache\01c06004479017507dd45a01f0a78742143209eb\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] C:\Users\limhj_000\.android\build-cache\7e00c950359f63f455e419565cf1eb9549986dd7\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] C:\Users\limhj_000\.android\build-cache\4fe33a6aa00f84c9007d90330e28091c87605d2e\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\limhj_000\.android\build-cache\607d2b77deeee05316ce4b817bc81b0b52449bd4\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] C:\Users\limhj_000\.android\build-cache\74f4934177835f542556ddd3f9842bbe55aad6a9\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\e1577c10d02cce69722da9bde839147d695c42f1\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.1] C:\Users\limhj_000\.android\build-cache\1b4c5cd0618c5383661a9eedea7ac0488795efc4\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] C:\Users\limhj_000\.android\build-cache\b03cbf71060e70051e0f80d6a6c643450240185a\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] C:\Users\limhj_000\.android\build-cache\68ad66c9d91d0c0fe245779f55a3e859e25bea4a\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.1] C:\Users\limhj_000\.android\build-cache\ad540cf5d6f72d41359c2cdce4b6c121feeb1818\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] C:\Users\limhj_000\.android\build-cache\9243a4accf4640839257db9a822fd539f11fe96f\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] C:\Users\limhj_000\.android\build-cache\ab8cfc63333e29ab0e8952bde6c44fc582ffea8d\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\limhj_000\.android\build-cache\d050b8a1cd28a75ec5b33d231744f39a7879c453\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\fb8c91f1523996d3e3ec33f50c5a035a6cccb13b\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\limhj_000\.android\build-cache\877a8e4c494bc992033bae049d0d7f3307af2963\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:10.2.1] C:\Users\limhj_000\.android\build-cache\f403ac0d9560289332012e2710210f14cf92952b\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] C:\Users\limhj_000\.android\build-cache\f6b16c263fe25865ee46287003f08e30284ae7b4\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\limhj_000\.android\build-cache\953430697dbbe46bbd0bc80fc80bcc960b5502ac\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] C:\Users\limhj_000\.android\build-cache\5e117b4813b23e58e3facdab95443c4bf7d0f4ee\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] C:\Users\limhj_000\.android\build-cache\5128547f88c4c915325910d95af6bf8cb9e8dcfc\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\limhj_000\.android\build-cache\3b9ab1ede054535d37b47d16984e3f35da273a09\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\limhj_000\.android\build-cache\d6cf90586a144a93fa3b17fb83723b3b14e93fb7\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\limhj_000\.android\build-cache\abea22e7658021da7e059c0028ca1fdd22dbb98c\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\limhj_000\.android\build-cache\faa7c3407c2c9d64aa31a673c3c0cad0f098646d\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\limhj_000\.android\build-cache\8a162b2861a10cb3095a58fa33d1b46db1f74075\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\limhj_000\.android\build-cache\67079a81d42615cfa8560e0b1e6a5465d76560a7\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\limhj_000\.android\build-cache\1c61b1fd8ad99611f7714449e19c2b50657bc46e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\limhj_000\.android\build-cache\7511086c494b476e87248b0170a0ccbb52e44977\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\limhj_000\.android\build-cache\f2c9b7f6442100305dfec17158ecdca0b0fbc9a8\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\limhj_000\.android\build-cache\dae1b689613c732e61523834d2fe65a56e8626c8\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\limhj_000\.android\build-cache\54aa43349dcbb6eac37ddd7a8fd0904050c884fc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\limhj_000\.android\build-cache\10fdf88894ada95fc78d6c08f11f899f25ebc17e\output\AndroidManifest.xml:9:5-20
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\limhj_000\.android\build-cache\5c1960986cdce0ed35b268892f18b2d9cfc9c864\output\AndroidManifest.xml:5:5-19
+	android:label
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:37:9-41
+	android:allowBackup
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:35:9-35
+	android:icon
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:36:9-43
+	android:largeHeap
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:38:9-33
+	android:theme
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:39:9-40
+	android:name
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:34:9-42
+activity#kr.ac.kpu.wheeling.login.LoginActivity
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:40:9-49:20
+	android:screenOrientation
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:43:13-49
+	android:label
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:41:13-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:44:13-48:29
+action#android.intent.action.MAIN
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:47:27-74
+activity#kr.ac.kpu.wheeling.login.SignupActivity
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:50:9-58
+	android:name
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:50:19-55
+activity#kr.ac.kpu.wheeling.blackbox.CameraActivity
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:51:9-63:20
+	android:screenOrientation
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:54:13-49
+	android:label
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:53:13-45
+	android:name
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:52:13-52
+activity#kr.ac.kpu.wheeling.blackbox.gallery.GalleryActivity
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:64:9-71:20
+	android:screenOrientation
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:66:13-49
+	android:theme
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:67:13-48
+	android:name
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:65:13-61
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:68:13-70:60
+	android:value
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:70:17-57
+	android:name
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:69:17-63
+activity#kr.ac.kpu.wheeling.view.TrackView
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:72:9-80:20
+	android:screenOrientation
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:74:13-49
+	android:theme
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:75:13-48
+	android:name
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:73:13-43
+provider#android.support.v4.content.FileProvider
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:82:9-90:20
+	android:authorities
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:84:13-60
+		INJECTED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml
+	android:grantUriPermissions
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:86:13-47
+	android:exported
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:85:13-37
+	android:name
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:83:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:87:13-89:58
+	android:resource
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:89:17-55
+	android:name
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:88:17-67
+meta-data#com.google.android.geo.API_KEY
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:99:9-101:55
+	android:value
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:101:13-52
+	android:name
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:100:13-58
+activity#kr.ac.kpu.wheeling.view.ViewActivity
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:103:9-64
+	android:name
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:103:19-52
+activity#kr.ac.kpu.wheeling.view.ViewMainActivity
+ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:104:9-68
+	android:name
+		ADDED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml:104:19-56
+uses-sdk
+INJECTED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.0.1] C:\Users\limhj_000\.android\build-cache\488652d2ea19fa86efa071bbc018d4d55d89dae9\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.0.1] C:\Users\limhj_000\.android\build-cache\aff624a0d0972b006a2dcd53b8a0b09778f9435e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:10.2.1] C:\Users\limhj_000\.android\build-cache\727ac1d2decbf84b5e4e9b2629eb9c82b3d0c179\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.1] C:\Users\limhj_000\.android\build-cache\13bf72f5905357b7e77d27d73364519a9001051c\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\limhj_000\.android\build-cache\c40948d64ccc6952901bf03033d00a531c51e3b5\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\faaa6a970842c98139d763a4edfd5087c50e32f6\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\limhj_000\.android\build-cache\09f6a03a490f5fbf46007289192b74a7f2427776\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\limhj_000\.android\build-cache\39f2e426cc3a09c16eaabca0cf509bfcf303fc9e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] C:\Users\limhj_000\.android\build-cache\0cdd6025494d41a5d79653d6e585cd136526e2c7\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\limhj_000\.android\build-cache\ddbf25a545bf5da651b4f1d2a985405b930839cb\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.1] C:\Users\limhj_000\.android\build-cache\fb1edace5e36ba0c69bb10eeebb7caada9123234\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\limhj_000\.android\build-cache\cc1bf0163ec0ff6c151a36533b68c92c5fc88285\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\limhj_000\.android\build-cache\c38d7395c3c990d68030ac5aab78bbe98f3d9603\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\limhj_000\.android\build-cache\d36181689524d06b29de99de5afd7fc102d1ec6f\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\limhj_000\.android\build-cache\5bc81d006945a53543fb44f4d5e9c67aea1216fd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\limhj_000\.android\build-cache\40b7b0182e3832240cc590f2564f83e845b58fd1\output\AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] C:\Users\limhj_000\.android\build-cache\0dfe06d9bbdc987ca750ac0572af399d992d2dfc\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.1] C:\Users\limhj_000\.android\build-cache\900df4d3b9722c93ba4d5ef12aeb6c98f98edb03\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.1] C:\Users\limhj_000\.android\build-cache\0b52a2b571595a932b5a29dd3c5f37e7340cddf8\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.1] C:\Users\limhj_000\.android\build-cache\79c4ac5ae741075f20ebc9e5dade545655c8cda2\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.1] C:\Users\limhj_000\.android\build-cache\2c7f15a527cfbc85df3a5b9100dee663531e759a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.1] C:\Users\limhj_000\.android\build-cache\b1ad550837bdb78ee9c13cc197c396d8b03b0d0b\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.1] C:\Users\limhj_000\.android\build-cache\2967069ca818992fe2a23c78d3c37617d93bf40a\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\limhj_000\.android\build-cache\77416da10a99561a9f38236c74560fb78676a6dc\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.1] C:\Users\limhj_000\.android\build-cache\32cefb105263a1280ff2a9a981d710ffafcc03a6\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.1] C:\Users\limhj_000\.android\build-cache\36630f332c2e96f5ccb2794acb7511e2cd79936d\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.1] C:\Users\limhj_000\.android\build-cache\40b631e33ad130aba3da05c249c5062bb02ca19e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.1] C:\Users\limhj_000\.android\build-cache\01c06004479017507dd45a01f0a78742143209eb\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.1] C:\Users\limhj_000\.android\build-cache\7e00c950359f63f455e419565cf1eb9549986dd7\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] C:\Users\limhj_000\.android\build-cache\4fe33a6aa00f84c9007d90330e28091c87605d2e\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\limhj_000\.android\build-cache\607d2b77deeee05316ce4b817bc81b0b52449bd4\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] C:\Users\limhj_000\.android\build-cache\74f4934177835f542556ddd3f9842bbe55aad6a9\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\e1577c10d02cce69722da9bde839147d695c42f1\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.1] C:\Users\limhj_000\.android\build-cache\3a01205a8e7e19c1d61ef477c3a0896fa12fa2cc\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.1] C:\Users\limhj_000\.android\build-cache\1b4c5cd0618c5383661a9eedea7ac0488795efc4\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.1] C:\Users\limhj_000\.android\build-cache\b03cbf71060e70051e0f80d6a6c643450240185a\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.1] C:\Users\limhj_000\.android\build-cache\68ad66c9d91d0c0fe245779f55a3e859e25bea4a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.1] C:\Users\limhj_000\.android\build-cache\ad540cf5d6f72d41359c2cdce4b6c121feeb1818\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] C:\Users\limhj_000\.android\build-cache\9243a4accf4640839257db9a822fd539f11fe96f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.1] C:\Users\limhj_000\.android\build-cache\ab8cfc63333e29ab0e8952bde6c44fc582ffea8d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.1] C:\Users\limhj_000\.android\build-cache\1ad45cfdb046ca7d281582949564269cc1768f39\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\limhj_000\.android\build-cache\d050b8a1cd28a75ec5b33d231744f39a7879c453\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\fb8c91f1523996d3e3ec33f50c5a035a6cccb13b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\limhj_000\.android\build-cache\877a8e4c494bc992033bae049d0d7f3307af2963\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.1] C:\Users\limhj_000\.android\build-cache\f403ac0d9560289332012e2710210f14cf92952b\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.1] C:\Users\limhj_000\.android\build-cache\f6b16c263fe25865ee46287003f08e30284ae7b4\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\limhj_000\.android\build-cache\953430697dbbe46bbd0bc80fc80bcc960b5502ac\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.1] C:\Users\limhj_000\.android\build-cache\5e117b4813b23e58e3facdab95443c4bf7d0f4ee\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.1] C:\Users\limhj_000\.android\build-cache\ffd45e1c94ebdc4aea109791e5fc6c60e65979eb\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.1] C:\Users\limhj_000\.android\build-cache\5128547f88c4c915325910d95af6bf8cb9e8dcfc\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.1] C:\Users\limhj_000\.android\build-cache\3b9ab1ede054535d37b47d16984e3f35da273a09\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\limhj_000\.android\build-cache\d6cf90586a144a93fa3b17fb83723b3b14e93fb7\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\limhj_000\.android\build-cache\abea22e7658021da7e059c0028ca1fdd22dbb98c\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\limhj_000\.android\build-cache\faa7c3407c2c9d64aa31a673c3c0cad0f098646d\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\limhj_000\.android\build-cache\8a162b2861a10cb3095a58fa33d1b46db1f74075\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\limhj_000\.android\build-cache\67079a81d42615cfa8560e0b1e6a5465d76560a7\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\limhj_000\.android\build-cache\1c61b1fd8ad99611f7714449e19c2b50657bc46e\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\limhj_000\.android\build-cache\7511086c494b476e87248b0170a0ccbb52e44977\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\limhj_000\.android\build-cache\f2c9b7f6442100305dfec17158ecdca0b0fbc9a8\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\limhj_000\.android\build-cache\dae1b689613c732e61523834d2fe65a56e8626c8\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\limhj_000\.android\build-cache\54aa43349dcbb6eac37ddd7a8fd0904050c884fc\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\limhj_000\.android\build-cache\f7681458037c7afdb3948fe4dea9efa18b90968a\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\limhj_000\.android\build-cache\10fdf88894ada95fc78d6c08f11f899f25ebc17e\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\limhj_000\.android\build-cache\5c1960986cdce0ed35b268892f18b2d9cfc9c864\output\AndroidManifest.xml:3:5-72
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.0.1] C:\Users\limhj_000\.android\build-cache\488652d2ea19fa86efa071bbc018d4d55d89dae9\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml
+		INJECTED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml
+		INJECTED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\limhj_000\.android\build-cache\c40948d64ccc6952901bf03033d00a531c51e3b5\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\limhj_000\.android\build-cache\c40948d64ccc6952901bf03033d00a531c51e3b5\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\limhj_000\.android\build-cache\c40948d64ccc6952901bf03033d00a531c51e3b5\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\limhj_000\.android\build-cache\c40948d64ccc6952901bf03033d00a531c51e3b5\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\limhj_000\.android\build-cache\c40948d64ccc6952901bf03033d00a531c51e3b5\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\limhj_000\.android\build-cache\c40948d64ccc6952901bf03033d00a531c51e3b5\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] C:\Users\limhj_000\.android\build-cache\c40948d64ccc6952901bf03033d00a531c51e3b5\output\AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\faaa6a970842c98139d763a4edfd5087c50e32f6\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\fb8c91f1523996d3e3ec33f50c5a035a6cccb13b\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\limhj_000\.android\build-cache\877a8e4c494bc992033bae049d0d7f3307af2963\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.1] C:\Users\limhj_000\.android\build-cache\953430697dbbe46bbd0bc80fc80bcc960b5502ac\output\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\faaa6a970842c98139d763a4edfd5087c50e32f6\output\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\limhj_000\.android\build-cache\09f6a03a490f5fbf46007289192b74a7f2427776\output\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\limhj_000\.android\build-cache\09f6a03a490f5fbf46007289192b74a7f2427776\output\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\limhj_000\.android\build-cache\09f6a03a490f5fbf46007289192b74a7f2427776\output\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\limhj_000\.android\build-cache\09f6a03a490f5fbf46007289192b74a7f2427776\output\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\limhj_000\.android\build-cache\09f6a03a490f5fbf46007289192b74a7f2427776\output\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\limhj_000\.android\build-cache\09f6a03a490f5fbf46007289192b74a7f2427776\output\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\limhj_000\.android\build-cache\09f6a03a490f5fbf46007289192b74a7f2427776\output\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\limhj_000\.android\build-cache\09f6a03a490f5fbf46007289192b74a7f2427776\output\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] C:\Users\limhj_000\.android\build-cache\09f6a03a490f5fbf46007289192b74a7f2427776\output\AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\limhj_000\.android\build-cache\39f2e426cc3a09c16eaabca0cf509bfcf303fc9e\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\limhj_000\.android\build-cache\39f2e426cc3a09c16eaabca0cf509bfcf303fc9e\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\limhj_000\.android\build-cache\39f2e426cc3a09c16eaabca0cf509bfcf303fc9e\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\limhj_000\.android\build-cache\39f2e426cc3a09c16eaabca0cf509bfcf303fc9e\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\limhj_000\.android\build-cache\39f2e426cc3a09c16eaabca0cf509bfcf303fc9e\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\limhj_000\.android\build-cache\39f2e426cc3a09c16eaabca0cf509bfcf303fc9e\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\limhj_000\.android\build-cache\39f2e426cc3a09c16eaabca0cf509bfcf303fc9e\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\limhj_000\.android\build-cache\39f2e426cc3a09c16eaabca0cf509bfcf303fc9e\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] C:\Users\limhj_000\.android\build-cache\39f2e426cc3a09c16eaabca0cf509bfcf303fc9e\output\AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\limhj_000\.android\build-cache\ddbf25a545bf5da651b4f1d2a985405b930839cb\output\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\limhj_000\.android\build-cache\ddbf25a545bf5da651b4f1d2a985405b930839cb\output\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\limhj_000\.android\build-cache\ddbf25a545bf5da651b4f1d2a985405b930839cb\output\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\limhj_000\.android\build-cache\ddbf25a545bf5da651b4f1d2a985405b930839cb\output\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\limhj_000\.android\build-cache\ddbf25a545bf5da651b4f1d2a985405b930839cb\output\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.1] C:\Users\limhj_000\.android\build-cache\ddbf25a545bf5da651b4f1d2a985405b930839cb\output\AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\limhj_000\.android\build-cache\77416da10a99561a9f38236c74560fb78676a6dc\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\limhj_000\.android\build-cache\77416da10a99561a9f38236c74560fb78676a6dc\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\limhj_000\.android\build-cache\77416da10a99561a9f38236c74560fb78676a6dc\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\limhj_000\.android\build-cache\77416da10a99561a9f38236c74560fb78676a6dc\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\limhj_000\.android\build-cache\77416da10a99561a9f38236c74560fb78676a6dc\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\limhj_000\.android\build-cache\77416da10a99561a9f38236c74560fb78676a6dc\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] C:\Users\limhj_000\.android\build-cache\77416da10a99561a9f38236c74560fb78676a6dc\output\AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\limhj_000\.android\build-cache\607d2b77deeee05316ce4b817bc81b0b52449bd4\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\e1577c10d02cce69722da9bde839147d695c42f1\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.2.1] C:\Users\limhj_000\.android\build-cache\607d2b77deeee05316ce4b817bc81b0b52449bd4\output\AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\limhj_000\.android\build-cache\d050b8a1cd28a75ec5b33d231744f39a7879c453\output\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\limhj_000\.android\build-cache\d050b8a1cd28a75ec5b33d231744f39a7879c453\output\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\limhj_000\.android\build-cache\d050b8a1cd28a75ec5b33d231744f39a7879c453\output\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\limhj_000\.android\build-cache\d050b8a1cd28a75ec5b33d231744f39a7879c453\output\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\limhj_000\.android\build-cache\d050b8a1cd28a75ec5b33d231744f39a7879c453\output\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\limhj_000\.android\build-cache\d050b8a1cd28a75ec5b33d231744f39a7879c453\output\AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\limhj_000\.android\build-cache\d050b8a1cd28a75ec5b33d231744f39a7879c453\output\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\limhj_000\.android\build-cache\d050b8a1cd28a75ec5b33d231744f39a7879c453\output\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\limhj_000\.android\build-cache\d050b8a1cd28a75ec5b33d231744f39a7879c453\output\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\limhj_000\.android\build-cache\d050b8a1cd28a75ec5b33d231744f39a7879c453\output\AndroidManifest.xml:27:23-69
+		INJECTED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\limhj_000\.android\build-cache\d050b8a1cd28a75ec5b33d231744f39a7879c453\output\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\limhj_000\.android\build-cache\d050b8a1cd28a75ec5b33d231744f39a7879c453\output\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\limhj_000\.android\build-cache\d050b8a1cd28a75ec5b33d231744f39a7879c453\output\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.1] C:\Users\limhj_000\.android\build-cache\d050b8a1cd28a75ec5b33d231744f39a7879c453\output\AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\fb8c91f1523996d3e3ec33f50c5a035a6cccb13b\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\limhj_000\.android\build-cache\877a8e4c494bc992033bae049d0d7f3307af2963\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\fb8c91f1523996d3e3ec33f50c5a035a6cccb13b\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\fb8c91f1523996d3e3ec33f50c5a035a6cccb13b\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\fb8c91f1523996d3e3ec33f50c5a035a6cccb13b\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\fb8c91f1523996d3e3ec33f50c5a035a6cccb13b\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\fb8c91f1523996d3e3ec33f50c5a035a6cccb13b\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\fb8c91f1523996d3e3ec33f50c5a035a6cccb13b\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\fb8c91f1523996d3e3ec33f50c5a035a6cccb13b\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\fb8c91f1523996d3e3ec33f50c5a035a6cccb13b\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\fb8c91f1523996d3e3ec33f50c5a035a6cccb13b\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\fb8c91f1523996d3e3ec33f50c5a035a6cccb13b\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\fb8c91f1523996d3e3ec33f50c5a035a6cccb13b\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\limhj_000\.android\build-cache\877a8e4c494bc992033bae049d0d7f3307af2963\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\fb8c91f1523996d3e3ec33f50c5a035a6cccb13b\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\fb8c91f1523996d3e3ec33f50c5a035a6cccb13b\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\limhj_000\.android\build-cache\fb8c91f1523996d3e3ec33f50c5a035a6cccb13b\output\AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:24:17-71
+		INJECTED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:26:22-76
+		INJECTED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:33:27-58
+		INJECTED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\limhj_000\.android\build-cache\2024295a70ee0b5950f3be0ff807e40b37d2c9a0\output\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\limhj_000\.android\build-cache\f403ac0d9560289332012e2710210f14cf92952b\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\limhj_000\.android\build-cache\f403ac0d9560289332012e2710210f14cf92952b\output\AndroidManifest.xml:6:19-78
+		INJECTED from F:\Project\android-Camera2Video-master_0623\android-Camera2Video-master_0619\Application\src\main\AndroidManifest.xml
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\limhj_000\.android\build-cache\f403ac0d9560289332012e2710210f14cf92952b\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\limhj_000\.android\build-cache\f403ac0d9560289332012e2710210f14cf92952b\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\limhj_000\.android\build-cache\f403ac0d9560289332012e2710210f14cf92952b\output\AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\limhj_000\.android\build-cache\d6cf90586a144a93fa3b17fb83723b3b14e93fb7\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\limhj_000\.android\build-cache\d6cf90586a144a93fa3b17fb83723b3b14e93fb7\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\limhj_000\.android\build-cache\d6cf90586a144a93fa3b17fb83723b3b14e93fb7\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\limhj_000\.android\build-cache\abea22e7658021da7e059c0028ca1fdd22dbb98c\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\limhj_000\.android\build-cache\abea22e7658021da7e059c0028ca1fdd22dbb98c\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\limhj_000\.android\build-cache\abea22e7658021da7e059c0028ca1fdd22dbb98c\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\limhj_000\.android\build-cache\abea22e7658021da7e059c0028ca1fdd22dbb98c\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\limhj_000\.android\build-cache\8a162b2861a10cb3095a58fa33d1b46db1f74075\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\limhj_000\.android\build-cache\8a162b2861a10cb3095a58fa33d1b46db1f74075\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\limhj_000\.android\build-cache\8a162b2861a10cb3095a58fa33d1b46db1f74075\output\AndroidManifest.xml:20:20-65

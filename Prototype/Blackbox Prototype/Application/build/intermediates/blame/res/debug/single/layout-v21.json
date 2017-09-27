@@ -12,6 +12,22 @@
         "source": "C:\\Users\\JSH\\.android\\build-cache\\ac7189fb8a48ff4a01884d948ba97a55998ec606\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
+        "merged": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ItsMo\\.android\\build-cache\\27a1ef0e7262b59ba20108e546f0aa547d3d20b7\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\ItsMo\\.android\\build-cache\\27a1ef0e7262b59ba20108e546f0aa547d3d20b7\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ItsMo\\.android\\build-cache\\27a1ef0e7262b59ba20108e546f0aa547d3d20b7\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\ItsMo\\.android\\build-cache\\27a1ef0e7262b59ba20108e546f0aa547d3d20b7\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
         "merged": "E:\\Prog\\FinalProg\\android-Camera2Video-master_0131\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
         "source": "C:\\Users\\JSH\\.android\\build-cache\\ac7189fb8a48ff4a01884d948ba97a55998ec606\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     }

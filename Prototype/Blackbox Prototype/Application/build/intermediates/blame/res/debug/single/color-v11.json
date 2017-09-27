@@ -4,6 +4,14 @@
         "source": "C:\\Users\\JSH\\.android\\build-cache\\ac7189fb8a48ff4a01884d948ba97a55998ec606\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
+        "merged": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\ItsMo\\.android\\build-cache\\27a1ef0e7262b59ba20108e546f0aa547d3d20b7\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\ItsMo\\.android\\build-cache\\27a1ef0e7262b59ba20108e546f0aa547d3d20b7\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
         "merged": "E:\\Prog\\FinalProg\\android-Camera2Video-master_0131\\Application\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "C:\\Users\\JSH\\.android\\build-cache\\ac7189fb8a48ff4a01884d948ba97a55998ec606\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     }

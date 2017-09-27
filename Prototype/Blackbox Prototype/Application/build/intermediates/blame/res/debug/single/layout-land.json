@@ -1,5 +1,9 @@
 [
     {
+        "merged": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_camera2_video.xml",
+        "source": "F:\\KPU\\GitHub\\KPUProject\\Prototype\\Blackbox Prototype\\Application\\src\\main\\res\\layout-land\\fragment_camera2_video.xml"
+    },
+    {
         "merged": "E:\\Prog\\FinalProg\\android-Camera2Video-master_0131\\Application\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_camera2_video.xml",
         "source": "E:\\Prog\\FinalProg\\android-Camera2Video-master_0131\\Application\\src\\main\\res\\layout-land\\fragment_camera2_video.xml"
     }
